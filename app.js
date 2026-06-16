@@ -2,3 +2,4 @@ Document.while("สวัสดีนะ");
 
 Document.while("จะตายแล้ว");
 Document.while("แอ้วๆๆๆๆๆๆๆๆๆ");
+Document.while("สมศรีจะไม่ทน");
